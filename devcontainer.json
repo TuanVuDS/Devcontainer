@@ -1,0 +1,11 @@
+{
+    "name": "MyImages",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+      "ms-vscode.vscode-docker"
+    ],
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    }
+  }
+  
